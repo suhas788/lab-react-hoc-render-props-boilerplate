@@ -4,7 +4,7 @@ import LikePost from './components/LikePost';
 
 function App() {
   return (
-    <div>
+    <div className='blog'>
       <h3>Some Blog</h3>
       <div className='buttons'>
         <LikePost/>
